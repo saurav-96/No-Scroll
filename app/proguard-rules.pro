@@ -1,0 +1,2 @@
+-keep class com.saurav.focusguard.** { *; }
+-dontwarn javax.annotation.**

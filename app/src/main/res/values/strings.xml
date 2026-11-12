@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoScroll</string>
+    <string name="accessibility_service_label">NoScroll Reels &amp; Shorts Blocker</string>
+    <string name="accessibility_service_summary">Blocks YouTube Shorts, Instagram Reels, and distracting feeds automatically.</string>
+    <string name="accessibility_service_description">NoScroll uses the Accessibility Service to detect when short-form video players (YouTube Shorts, Instagram Reels, Snapchat Spotlights, etc.) or restricted websites are opened so it can exit the player or enforce your focus plan. All inspection happens locally on your device.</string>
+    <string name="device_admin_description">Protects NoScroll from unauthorized uninstallation while Uninstall Protection is active.</string>
+    <string name="notification_channel_name">NoScroll Blocker Shield</string>
+    <string name="notification_channel_desc">Keeps short-video detection and daily scroll limits active in the background.</string>
+</resources>
