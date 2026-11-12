@@ -6,6 +6,19 @@ Built from the ground up in modern **Kotlin** + **Jetpack Compose** (Material 3)
 
 ---
 
+## 📥 Download APK Directly
+
+You can download the APKs directly from the repository:
+
+- 🟢 **[Download FocusGuard-release.apk (2.0 MB - Recommended)](https://github.com/saurav-96/No-Scroll/raw/main/release/FocusGuard-release.apk)**  
+  *(Minified with R8, optimized, and signed)*
+- 🟡 **[Download FocusGuard-debug.apk (19.5 MB)](https://github.com/saurav-96/No-Scroll/raw/main/release/FocusGuard-debug.apk)**  
+  *(Debug build with developer logging)*
+
+Or browse the release folder: [https://github.com/saurav-96/No-Scroll/tree/main/release](https://github.com/saurav-96/No-Scroll/tree/main/release)
+
+---
+
 ## 📱 Features
 
 - **Reels & Shorts Blocker**: Automatically detects and exits short-form video players without impacting regular long-form videos:
